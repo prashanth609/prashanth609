@@ -2,7 +2,7 @@
 
 ## Senior Java Developer | Spring Boot | Microservices | Cloud-Native Backend Development
 
-I am a results-driven **Java Developer with 6+ years of experience** in designing, developing, and deploying scalable enterprise applications. I specialize in **Java, Spring Boot, Microservices, REST APIs, Hibernate/JPA, Kafka, SQL databases, Docker, Kubernetes, OpenShift, GCP, and Angular**.
+I am a results-driven **Java Developer with 7+ years of experience** in designing, developing, and deploying scalable enterprise applications. I specialize in **Java, Spring Boot, Microservices, REST APIs, Hibernate/JPA, Kafka, SQL databases, Docker, Kubernetes, OpenShift, GCP, and Angular**.
 
 I have worked on enterprise-grade applications across domains like **financial services, credit card systems, third-party data integrations, manufacturing execution systems, and real-time backend platforms**.
 
